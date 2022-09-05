@@ -1,0 +1,12 @@
+{
+  "name": "cadena-mas-larga-js",
+  "version": "1.0.0",
+  "description": "Ejercicio donde se compara las palabras de una cadena de texto, devolviendo la palabra mas larga dentro de ella",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
